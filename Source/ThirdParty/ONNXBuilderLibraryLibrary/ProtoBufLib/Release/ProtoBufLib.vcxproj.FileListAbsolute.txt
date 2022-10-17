@@ -1,0 +1,2 @@
+D:\projects\RiderProjects\ONNXBuilder\ProtoBufLib\Release\ProtoBufLib.vcxproj.CopyComplete
+D:\projects\UE5\ONNXBuilder\Plugins\ONNXBuilderPlugin\Source\ThirdParty\ONNXBuilder\ProtoBufLib\Release\ProtoBufLib.vcxproj.CopyComplete

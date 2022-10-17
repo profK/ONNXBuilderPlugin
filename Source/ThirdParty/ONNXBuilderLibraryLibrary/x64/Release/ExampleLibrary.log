@@ -1,0 +1,8 @@
+﻿  ExampleLibrary.cpp
+     Creating library D:\projects\UE5\ONNXBuilder\Plugins\ONNXBuilderLibrary\Source\ThirdParty\ONNXBuilderLibraryLibrary\x64\Release\ExampleLibrary.lib and object D:\projects\UE5\ONNXBuilder\Plugins\ONNXBuilderLibrary\Source\ThirdParty\ONNXBuilderLibraryLibrary\x64\Release\ExampleLibrary.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ExampleLibrary.vcxproj -> D:\projects\UE5\ONNXBuilder\Plugins\ONNXBuilderLibrary\Source\ThirdParty\ONNXBuilderLibraryLibrary\x64\Release\ExampleLibrary.dll
+          1 file(s) copied.
